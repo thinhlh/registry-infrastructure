@@ -5,7 +5,7 @@
 # Prerequisite
 - Terraform CLI installation on local machine
 - AWS Token: include `ACCESS KEY`, `SECRET KEY` & `TOKEN` (If exists)
-- A forked [registry service repoistory](https://github.com/TH-Logistic/registry-service)
+- A forked [registry service repoistory](https://github.com/thinhlh/registry-service)
 
 # Provision infrastructure
 
