@@ -3,7 +3,7 @@
 > This folder contains infrastructure for registry. Start by provisioning infrastructure, then run the script after provision in instance to up the registry
 
 # Prerequisite
-- Terraform CLI installation on local machine
+- Terraform CLI installation on local machine with amd64 
 - AWS Token: include `ACCESS KEY`, `SECRET KEY` & `TOKEN` (If exists)
 - A forked [registry service repoistory](https://github.com/thinhlh/registry-service)
 
